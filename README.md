@@ -1,4 +1,4 @@
-This is a project from CS315 Data Structures and Analysis of Algorithms called eBooth. It is written in Java and was used to show different ways of using various data structures. The clone method was also utilized to emphasize the difference between a deep and shallow copy and the effects of clone() on primitive data types versus objects. The binary search tree class (BST.java) utilized recursive method calls. 
+This is a project from CS315 Data Structures and Analysis of Algorithms called eBooth. It is written in Java and was used to show different ways of using various data structures. The clone method was also utilized to emphasize the difference between a deep and shallow copy and the effects of clone() on primitive data types versus objects. The binary search tree class (BST.java) utilizes recursive method calls. 
 
 This program uses the following data structures covered in the course:
 -Linked lists
